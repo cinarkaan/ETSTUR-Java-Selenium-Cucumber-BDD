@@ -10,8 +10,10 @@ Reservation any hotel from etstur
 <br><br>
 
 Test Case
-
-1 - Choose date between and region and then click search for hotel
-2 - Chose a hotel as randomly among the listed 
-3- Choose room from the hotel that you chose
-4- Fill Out reservation and payment steps
+<ol>
+<li> Choose date between and region and then click search for hotel </li>
+<li>Chose a hotel as randomly among the listed </li>
+<li>Choose room from the hotel that you chose</li>
+<li>Fill Out reservation and payment steps
+  </li>
+</ol>
