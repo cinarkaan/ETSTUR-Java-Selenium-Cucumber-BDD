@@ -11,7 +11,7 @@ Reservation any hotel from etstur
 
 Test Case
 
-1 - Bir tarih aralığı ve bölge/tema belirleyerek arama yapman ve otel listelemesine ilerle
-2 - Listelenen oteller arasından bir tanesi seç
-3- Seçtiğin otelden bir oda seçimi yap
-4- Yaptığın oda seçiminin akabinde rezervasyon ve ödeme adımlarını doldur
+1 - Choose date between and region and then click search for hotel
+2 - Chose a hotel as randomly among the listed 
+3- Choose room from the hotel that you chose
+4- Fill Out reservation and payment steps
